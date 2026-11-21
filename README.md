@@ -85,7 +85,7 @@ Tests run offline, with no key and no network: `pip install pytest && pytest -q`
 
 Default model: `gemini-3.5-flash-lite` (stable, free tier available). Override it with `GEMINI_MODEL` in `.env`.
 
-Paid price: $0.30 per 1M input tokens and $2.50 per 1M output tokens ([Gemini pricing](https://ai.google.dev/gemini-api/docs/pricing)). At the measured ~3,100 in and ~160 out, that's **about $0.0013 per run, or ~$1.35 per 1,000 runs**. Google doesn't publish fixed free-tier daily limits; it says to check your project's limits in AI Studio ([rate limits](https://ai.google.dev/gemini-api/docs/rate-limits)).
+Paid price: $0.30 per 1M input tokens and $2.50 per 1M output tokens ([Gemini pricing](https://ai.google.dev/gemini-api/docs/pricing)). At the measured ~3,100 in and ~160 out, that's **about $0.0013 per run, or ~$1.33 per 1,000 runs**. Google doesn't publish fixed free-tier daily limits; it says to check your project's limits in AI Studio ([rate limits](https://ai.google.dev/gemini-api/docs/rate-limits)).
 
 On the free tier, Google may use prompts and outputs to improve its products; on the paid tier it doesn't (same pricing page).
 
