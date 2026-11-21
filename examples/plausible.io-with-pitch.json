@@ -1,0 +1,27 @@
+{
+  "url": "https://plausible.io/",
+  "lines": [
+    "You built Plausible as a lightweight and open-source Google Analytics alternative.",
+    "Growing to over 22,000 paying subscribers brings steady demand for localized versions in Europe.",
+    "Do you translate your marketing pages into Spanish or German to capture more European traffic?"
+  ],
+  "evidence": [
+    "lightweight and open-source Google Analytics alternative",
+    "22,000 paying subscribers",
+    ""
+  ],
+  "founder": "Uku Taht",
+  "warnings": [],
+  "pages": [
+    "https://plausible.io/",
+    "https://plausible.io/about",
+    "https://plausible.io/blog"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "attempts": 1,
+  "usage": {
+    "input_tokens": 3108,
+    "output_tokens": 171,
+    "thinking_tokens": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://plausible.io/",
+  "lines": [
+    "You built a lightweight and open-source Google Analytics alternative.",
+    "Keeping scripts small helps avoid affecting page speed or Core Web Vitals.",
+    "How do you handle feature requests while keeping the dashboard simple?"
+  ],
+  "evidence": [
+    "open-source Google Analytics alternative",
+    "affect your page speed or Core Web Vitals",
+    ""
+  ],
+  "founder": "Uku Taht",
+  "warnings": [],
+  "pages": [
+    "https://plausible.io/",
+    "https://plausible.io/about",
+    "https://plausible.io/blog"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "attempts": 1,
+  "usage": {
+    "input_tokens": 3103,
+    "output_tokens": 148,
+    "thinking_tokens": null
+  }
+}

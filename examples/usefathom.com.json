@@ -1,0 +1,27 @@
+{
+  "url": "https://usefathom.com/",
+  "lines": [
+    "You built Fathom Analytics to provide a privacy-first alternative without requiring annoying cookie notices.",
+    "Keeping page speed high while maintaining cookieless tracking is a tricky engineering balance.",
+    "Are you open to sharing how you handle data routing for European traffic?"
+  ],
+  "evidence": [
+    "privacy-first Google Analytics alternative",
+    "Our script is fast",
+    ""
+  ],
+  "founder": null,
+  "warnings": [],
+  "pages": [
+    "https://usefathom.com/",
+    "https://usefathom.com/about",
+    "https://usefathom.com/about/contact"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "attempts": 1,
+  "usage": {
+    "input_tokens": 3118,
+    "output_tokens": 141,
+    "thinking_tokens": null
+  }
+}

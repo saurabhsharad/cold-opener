@@ -1,0 +1,25 @@
+{
+  "url": "https://carrd.co/",
+  "lines": [
+    "You built Carrd for creating simple, fully responsive one-page sites for pretty much anything.",
+    "Users can start with dozens of templates or a blank page.",
+    "Are you seeing most people stick to the free three-site limit?"
+  ],
+  "evidence": [
+    "Simple, free, fully responsive one-page sites for pretty much anything.",
+    "Start with one of dozens of templates (or a blank page)",
+    ""
+  ],
+  "founder": null,
+  "warnings": [],
+  "pages": [
+    "https://carrd.com/"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "attempts": 1,
+  "usage": {
+    "input_tokens": 876,
+    "output_tokens": 154,
+    "thinking_tokens": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://pirsch.io/",
+  "lines": [
+    "Noticed Pirsch provides a cookieless alternative to Google Analytics with server-side integration options.",
+    "Building a privacy-focused analytics SaaS while keeping the core open-source sounds like a great model.",
+    "Would you be open to sharing how you handle server-side tracking vs script snippets?"
+  ],
+  "evidence": [
+    "plug-and-play Google Analytics alternative",
+    "core of Pirsch is open-source",
+    ""
+  ],
+  "founder": "Marvin Blum",
+  "warnings": [],
+  "pages": [
+    "https://pirsch.io/",
+    "https://pirsch.io/about-us",
+    "https://pirsch.io/pricing"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "attempts": 1,
+  "usage": {
+    "input_tokens": 3118,
+    "output_tokens": 168,
+    "thinking_tokens": null
+  }
+}

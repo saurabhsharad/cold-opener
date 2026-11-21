@@ -1,0 +1,27 @@
+{
+  "url": "https://simpleanalytics.com/",
+  "lines": [
+    "Simple Analytics measures website traffic when visitors reject consent without using cookies.",
+    "Running alongside GA4 gives teams an independent dataset to compare missing traffic.",
+    "Are you seeing significant discrepancies in your own setup?"
+  ],
+  "evidence": [
+    "measure website traffic when visitors reject consent",
+    "Run Simple Analytics alongside GA4 to compare observed website traffic",
+    ""
+  ],
+  "founder": "Adriaan van Rossum",
+  "warnings": [],
+  "pages": [
+    "https://www.simpleanalytics.com/",
+    "https://www.simpleanalytics.com/about",
+    "https://www.simpleanalytics.com/pricing"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "attempts": 1,
+  "usage": {
+    "input_tokens": 3117,
+    "output_tokens": 151,
+    "thinking_tokens": null
+  }
+}
