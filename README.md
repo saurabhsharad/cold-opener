@@ -4,7 +4,7 @@ Paste a company's website. Get a 3-line opener for a cold email to its founder, 
 
 It drafts. It never sends anything.
 
-**Live demo:** https://cold-opener-9dypjckjxszehebajcjttx.streamlit.app/ (free hosting: if it's been idle, it takes ~30 seconds to wake up. If Gemini is busy you'll see a 503 message; try again in a minute.)
+**Live demo:** https://cold-opener-9dypjckjxszehebajcjttx.streamlit.app/ (free hosting: if it's been idle, it may need a moment to wake up. If Gemini is busy you'll see a 503 message; try again in a minute.)
 
 ```
 $ python cli.py simpleanalytics.com
